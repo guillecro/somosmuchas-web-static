@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/conectar", {data:[{}],fetch:[],mutations:void 0});
